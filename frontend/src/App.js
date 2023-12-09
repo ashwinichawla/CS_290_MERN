@@ -37,7 +37,7 @@ function App() {
           </main>
 
           <footer>
-            <p><cite>&copy; 2022 Ashwini Chawla, CS 290 Portfolio Assignment 7</cite></p>
+            <p><cite>&copy; 2022 Lara Priscilla Anderson, CS 290 Portfolio Assignment 7</cite></p>
           </footer>
 
       </Router>
